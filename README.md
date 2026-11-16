@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ángel Gabriel Castillo Castillo</h1>
+<h1>Angel Gabriel Castillo Castillo</h1>
 
 <p>
   <strong>Estudiante de Ingeniería en Sistemas Computacionales (ITSX) &nbsp;|&nbsp; Desarrollador Full-Stack &amp; Arquitectura de Bases de Datos</strong>
@@ -25,6 +25,7 @@
 - **Especialidad:** Enfocado en el desarrollo backend, el diseño y la optimización de bases de datos relacionales y el desarrollo de aplicaciones web modernas.
 - **Proyectos actuales:** Actualmente desarrollando **SIACC** (*Sistema Integral de Automatización y Consulta Comercial* con **Python**, **Flask** y **MySQL 8.0**) y **SIGA-ITSX** (**Java Spring Boot**, **Angular 17** y **SQL Server**).
 - **Entorno Linux:** Entusiasta de entornos **Linux (CachyOS / Arch)** y optimización de sistemas.
+- **Programación lógica:** También he trabajado con el lenguaje **Prolog** en programación lógica y declarativa.
 - **Contacto:** [`angelgcastillo_@outlook.com`](mailto:angelgcastillo_@outlook.com) · [Instagram](https://instagram.com/angelgcastillo_)
 
 ---
@@ -73,6 +74,15 @@
         <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
         <img src="https://img.shields.io/badge/VS_Code-1A1B27?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMzhCREY4IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="VS Code" />
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>Programación Lógica y Otros Lenguajes</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Prolog-1A1B27?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZCNzE4NSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNSAzbDMuMiAyLjRBOC41IDguNSAwIDAgMSAxMiA0LjVjMS4zNSAwIDIuNjMuMzIgMy44LjlMMTkgM2wtLjYgNC4yQTggOCAwIDAgMSAyMCAxMmMwIDQuOTctMy41OCA5LTggOXMtOC00LjAzLTgtOWMwLTEuNzguNTgtMy40NCAxLjYtNC44TDUgM3ptNC4yIDguNWEyIDIgMCAxIDAgMC00IDIgMiAwIDAgMCAwIDR6bTUuNiAwYTIgMiAwIDEgMCAwLTQgMiAyIDAgMCAwIDAgNHpNMTIgMTNsLTEuNSAyaDNMMTIgMTN6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=" alt="Prolog" />
+      </p>
+      <p><sub>Experiencia práctica en programación lógica y declarativa con Prolog</sub></p>
     </td>
   </tr>
 </table>
